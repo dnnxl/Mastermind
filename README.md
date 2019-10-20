@@ -7,3 +7,6 @@ Is a board game that required memory and logic.
 
 ## How to use ?
 ![Help option](demo/howToUse.gif)
+
+## Game
+![Game](demo/game.gif)
