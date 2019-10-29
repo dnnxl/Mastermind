@@ -3,10 +3,18 @@
 Is a board game that required memory and logic.
 
 ## Help option
-![Help option](demo/help.gif)
+<p align="center">
+  <img src="demo/help.gif">
+</p>
+
 
 ## How to use ?
-![Help option](demo/howToUse.gif)
+<p align="center">
+  <img src="demo/howToUse.gif">
+</p>
+
 
 ## Game
-![Game](demo/game.gif)
+<p align="center">
+  <img src="demo/game.gif">
+</p>
